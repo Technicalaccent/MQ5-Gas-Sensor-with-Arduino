@@ -1,15 +1,5 @@
 # [Interfacing 16x2 LCD with Arduino](https://circuitdigest.com/microcontroller-projects/interfacing-16x2-lcd-with-arduino)
 
-<img src="https://github.com/Circuit-Digest/Basic-Arduino-Tutorials-for-Beginners-/blob/main/MQ3%20Sensor%20with%20Arduino/images/MQ-Gas-sensor_title.jpg" width="" alt="alt_text" title="image_tooltip">
-<br>
-
-<br>
-<a href="https://circuitdigest.com/tags/arduino"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Arduino Basic Tutorials Circuit Digest&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
-<br>
-
-[<h1>Click here](https://circuitdigest.com/tags/arduino) for the complete tutorials on Arduino basics.</h1>
-
-
 <br>
 <br>
 <br>
